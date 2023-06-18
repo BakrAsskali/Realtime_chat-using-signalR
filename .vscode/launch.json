@@ -1,0 +1,94 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Utiliser",
+      "request": "launch",
+      "mainClass": "Utiliser",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Operations",
+      "request": "launch",
+      "mainClass": "Operations",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "ForNameTest",
+      "request": "launch",
+      "mainClass": "ForNameTest",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Pile",
+      "request": "launch",
+      "mainClass": "Pile",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "HanoiPile",
+      "request": "launch",
+      "mainClass": "HanoiPile",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Pgcd",
+      "request": "launch",
+      "mainClass": "Pgcd",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Produit",
+      "request": "launch",
+      "mainClass": "Produit",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Hanoi",
+      "request": "launch",
+      "mainClass": "Hanoi",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "Recursive",
+      "request": "launch",
+      "mainClass": "Recursive",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "type": "java",
+      "name": "CompteBancaire",
+      "request": "launch",
+      "mainClass": "CompteBancaire",
+      "projectName": "Documents_2d306905"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/bakaria19/Documents",
+      "program": "/home/bakaria19/Documents/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
